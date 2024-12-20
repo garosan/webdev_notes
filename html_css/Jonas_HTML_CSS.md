@@ -13,6 +13,9 @@
 ## Resources
 
 - [Course Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [Github Repo](https://github.com/jonasschmedtmann/html-css-course)
+- [Discord Invite](https://discord.gg/uhMkpf4)
+- [Resources Website](https://jonas.io/resources/)
 
 ## 📄 Table of Contents
 
