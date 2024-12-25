@@ -30,3 +30,6 @@ Website personalities:
 Example website: https://www.endplan.com/ Actually made with Webflow.
 
 ## Typography
+
+- Google Fonts
+- Font Squirrel
