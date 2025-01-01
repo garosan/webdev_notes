@@ -29,3 +29,30 @@
 13. Advanced Features: Payments, Email, File Uploads
 14. Setting Up Git and Deployment
 15. Outro
+
+## 🧑‍🏫 Topics
+
+- What is Node.js and Why Use It?
+- Blocking and Non-Blocking: Asynchronous Nature of Node.js
+- An Overview of How the Web Works
+- Front-End vs Back-End Web Development
+- Static vs Dynamic vs API
+- Node, V8, Libuv and C++
+- Processes, Threads and the Thread Pool
+- The Node.js Event Loop
+- Events and Event-Driven Architecture
+- Introduction to Streams
+- How Requiring Modules Really Works
+- What is Express?
+- APIs and RESTful API Design
+- Middleware and the Request-Response Cycle
+- What is MongoDB?
+- What is Mongoose?
+- Intro to Back-End Architecture: MVC, Types of Logic, and More
+- An Overview of Error Handling
+- How Authentication with JWT Works
+- Security Best Practices
+- MongoDB Data Modelling
+- Designing Our Data Model
+- Credit Card Payments with Stripe
+- Final Considerations
