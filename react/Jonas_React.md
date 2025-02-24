@@ -19,7 +19,7 @@
 3. A First Look at React
 4. _OPTIONAL_ Review of Essential JavaScript for React
 5. Working With Components, Props and JSX
-6. State, Events and Forms: Interactive Components
+6. [State, Events and Forms: Interactive Components](./state_events_forms.md)
 7. Thinking in React: State management
 8. _OPTIONAL_ Practice Project: Eat-'N-Split
 9. PART 2: Intermediate React Presentation
