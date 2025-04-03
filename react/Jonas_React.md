@@ -136,3 +136,9 @@
 - Blurring the Boundary Between Server and Client
 - What is Middleware in Next.js?
 - What are Server Actions?
+
+## More Topics Distilled
+
+- Using an async function
+- Adding a loading state
+- Handling errors
